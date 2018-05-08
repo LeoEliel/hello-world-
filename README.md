@@ -1,2 +1,3 @@
 # hello-world-
-Meu primeiro repositório no GitHub
+Meu primeiro repositório no GitHub.
+Eu gosto de batatas, sei lá mais o que dizer...
